@@ -1,13 +1,3 @@
-/*
- * EField2D.java
- *
- * Created on 2 de Maio de 2004, 19:48
- */
-
-/**
- *
- * @author  user
- */
 import org.opensourcephysics.display.*;
 import org.opensourcephysics.display2d.*;
 import org.opensourcephysics.displayejs.*;

@@ -1,13 +1,3 @@
-/*
- * EFieldGUI.java
- *
- * Created on 26 de Maio de 2004, 15:48
- */
-
-/**
- *
- * @author  user
- */
 import org.opensourcephysics.display.*;
 import org.opensourcephysics.displayejs.*;
 public class EFieldGUI extends javax.swing.JFrame {
